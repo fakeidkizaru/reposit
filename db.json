@@ -1,1 +1,45 @@
-
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Petya",
+            "surname": "Shalavovna",
+            "balance": 100
+        },
+        {
+            "id": 2,
+            "name": "Vasya",
+            "surname": "Pupkin",
+            "balance": 550
+        },
+        {
+            "id": 3,
+            "name": "Masha",
+            "surname": "Ivanova",
+            "balance": 1200
+        }
+    ],
+    "products": [
+        {
+            "product_id": 101,
+            "name": "Умные часы X20",
+            "description": "Стильные водонепроницаемые часы с пульсометром и GPS.",
+            "price": 129.99,
+            "image_url": "https://via.placeholder.com/300x200?text=Smart+Watch"
+        },
+        {
+            "product_id": 102,
+            "name": "Беспроводные наушники Pro",
+            "description": "Наушники с активным шумоподавлением и ёмким аккумулятором.",
+            "price": 79.50,
+            "image_url": "https://via.placeholder.com/300x200?text=Headphones"
+        },
+        {
+            "product_id": 103,
+            "name": "Мини-квадрокоптер Q4",
+            "description": "Идеально подходит для начинающих, с HD-камерой.",
+            "price": 45.00,
+            "image_url": "https://via.placeholder.com/300x200?text=Drone"
+        }
+    ]
+}
